@@ -92,3 +92,17 @@ body{
        font-weight: bold;
    
    }
+
+#contra {
+  font-size: 50px;
+  color: firebrick;
+  text-align: center;
+}
+
+
+#p1 {
+  font-size: 30px;
+  color: navy;
+  text-align: center;
+  
+}
