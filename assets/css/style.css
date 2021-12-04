@@ -12,3 +12,16 @@
     font-family: cursive;
     text-align: justify;
   }
+#PACMAN{
+    color: darkgoldenrod;
+    font-size: 100px;
+    font-family: monospace;
+    text-align: center;
+}
+
+#text1{
+    color: black;
+    font-size: large;
+    font-family: cursive;
+    text-align: justify;
+}
