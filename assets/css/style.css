@@ -1,1 +1,14 @@
 /**Estilos */
+#mc {
+    color: rgb(60, 255, 0);
+    font-size: 100px;
+    font-family: monospace;
+    text-align: center;
+  }
+  
+  #texto1 {
+    color: brown;
+    font-size: large;
+    font-family: cursive;
+    text-align: justify;
+  }
